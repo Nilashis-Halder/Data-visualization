@@ -2,7 +2,7 @@
 Here are a few interactive dashboards and reports made with Excel and MS Power BI & Tableau tools.
 
 ## Excel dashboards:
- - ### [Interactive excel dashboard (sales data)](https://github.com/Nilashis-Halder/Data-visualization/blob/1c3879558dcfb9c7ddf155b3aadd9d76217c4198/Interactive%20excel%20dashboard%20(sales%20data).xlsx)
+ - ### [Interactive excel dashboard (sales data)](https://github.com/Nilashis-Halder/Data-visualization/blob/1da415a8b2162b07566bf2f3bb72a0a6c236c95a/Interactive%20excel%20dashboard%20(sales%20data).xlsx)
    - #### 🛠Building Interactive Excel Dashboard to report relevant of Sales and Employee performance indexes using a sample sales data set from [excelfind.com](https://excelfind.com/downloads/#/).
    - #### 🤔Steps:
      1) Created pivot tables with the whole sales data set to model the data so its easier to accurately create charts like - Line chart, Bar chart, Column chart, Map chart, Doughnut chart visualizing different types of sales & performance metrics.
@@ -11,7 +11,7 @@ Here are a few interactive dashboards and reports made with Excel and MS Power B
      3) Added Slicers for every dimension that we want to filter in and connected all slicers to every chart to make them interactive and cross-dimensionally filterable.
      
    - #### 🚀Insights:
-     - Performance Dashboard
+     - Performance Index
      - Sales by Region
      - Sales by Employee
      - Item Share
@@ -19,11 +19,9 @@ Here are a few interactive dashboards and reports made with Excel and MS Power B
      
    - #### 📷Screenshot:   
      <p>
-     <img src="https://user-images.githubusercontent.com/111624143/229320925-df2d1c2c-b19e-46eb-a895-c24a856df729.png" width="650">
+     <img src="https://user-images.githubusercontent.com/111624143/229329392-f246b77c-c50b-4445-a347-1f1122b9eb13.png" width="650">
      </p>
-
-
-
+     
 
  
  
