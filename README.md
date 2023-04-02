@@ -44,7 +44,7 @@ Here are a few interactive dashboards and reports made with Excel and MS Power B
      - Salary Satisfaction Rating
      
    
-   - #### 📷Screenshots   
+   - #### 📷Screenshot   
      <p>
      <img src="https://user-images.githubusercontent.com/111624143/229324236-b2c8f9ac-7239-4cf2-8dc7-fac6540c3c7d.png" width="650">
      </p>
