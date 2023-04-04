@@ -30,7 +30,7 @@ Here are a few interactive dashboards and reports made with Excel and MS Power B
  
 ## Power BI dashboards:
  - ### [Data Professional Survey Breakdown - Power BI dashboard](https://github.com/Nilashis-Halder/Data-visualization/blob/72d21f2ecfb2ad8896ca6fb8fa1e069fdd956e05/Data%20Professional%20Survey%20Breakdown%20-%20Power%20BI%20dashboard.pbix)
-    - #### 🛠Building Interactive Power BI Dashboard to create a visual insights receieved from a real data set from Data Professional Survey conducted by [Alex Freberg](https://www.linkedin.com/in/alex-freberg/).
+    - #### 🛠Building Interactive Power BI Dashboard to create a visual insights receieved from a real [data set](https://github.com/AlexTheAnalyst/Power-BI/blob/30d9e66e34a15900c5a191e76372e96bf4acf43a/Power%20BI%20-%20Final%20Project.xlsx) from Data Professional Survey conducted by [Alex Freberg](https://www.linkedin.com/in/alex-freberg/).
    - #### 🤔Steps:
      1) The raw data from the survey was first transformed in power query editor to remove unnecessary columns, split & remove extra info, standardize inconsistent data and correct data types.
      2) Added and designed charts like - Treemap, Stacked column chart, Bar chart, Cards, Gauge, Doughnut chart visualizing different types of insights about Data Professionals found from the Survey.
