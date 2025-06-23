@@ -7,6 +7,7 @@ Here are a few interactive dashboards and reports made with Excel and MS Power B
  - #### <a href="#power bi dashboards">Power BI dashboards</a>
    1) <a href="#data professional survey breakdown">Data Professional Survey Breakdown</a>
    2) <a href="#Inventory & Supply Chain Management">Inventory & Supply Chain Management</a>
+   3) Real Estate Market Trend dashboard... (Work in progress)
 
 ## Excel dashboards:<a id="excel dashboards"></a>
  - ### [Interactive excel dashboard (sales data)](https://github.com/Nilashis-Halder/Data-visualization/blob/72d21f2ecfb2ad8896ca6fb8fa1e069fdd956e05/Interactive%20excel%20dashboard%20(sales%20data).xlsx)<a id="interactive excel dashboard"></a>
